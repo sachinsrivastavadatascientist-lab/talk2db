@@ -15,7 +15,7 @@ AUTHORIZATION_ENDPOINT = "https://accounts.google.com/o/oauth2/auth"
 TOKEN_ENDPOINT = "https://oauth2.googleapis.com/token"
 USERINFO_ENDPOINT = "https://www.googleapis.com/oauth2/v1/userinfo"
 
-REDIRECT_URI = "https://talk2db-dhv2fdogneqrp2r5xy2fpg.streamlit.app/"
+REDIRECT_URI = "https://talk2db-dhv2fdogneqrp2r5xy2fpg.streamlit.app"
 
 
 # =========================
